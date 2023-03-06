@@ -106,7 +106,7 @@ const addChapter = asyncHandler(async (req, res) => {
 });
 
 
-
+// update this part of the upload file 
 // const uploadFiles = asyncHandler(async (req, res) => {
 //     const files = req.files;
 //     console.log(files);
