@@ -1,0 +1,59 @@
+{
+    "output": [
+        {
+            "questionType": 0,
+            "question": "what is question 1",
+            "answers": [
+                "first option",
+                "second option",
+                "third option",
+                "fourth option"
+            ],
+            "isCorrect": "first option"
+        },
+        {
+            "questionType": 1,
+            "question": "what is question 2?",
+            "answers": [
+                "this is the first point",
+                "this is the second point",
+                "this is the third point",
+                "this is the fourth point"
+            ]
+        },
+        {
+            "questionType": 0,
+            "question": "what is question 3",
+            "answers": [
+                "first option",
+                "second option",
+                "third option",
+                "fourth option"
+            ],
+            "isCorrect": "third option"
+        },
+        {
+            "questionType": 0,
+            "question": "what is question 4",
+            "answers": [
+                "first option",
+                "second option",
+                "third option",
+                "fourth option"
+            ],
+            "isCorrect": "second option"
+        },
+        {
+            "questionType": 1,
+            "question": "what is question 5?",
+            "answers": [
+                "-this is the first point",
+                "-this is the second point",
+                "-this is the third point",
+                "-this is the fourth point",
+                "-this is the fifth point",
+                "-this is the sixth point"
+            ]
+        }
+    ]
+}
