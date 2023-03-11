@@ -1,20 +1,26 @@
 const mongoose = require("mongoose");
 // completely update this to store data in the format as required for our application
 const inputSchema = mongoose.Schema({
-    id: {
+    inputFilename: {
         type: String,
-        required: [true, "id is always required"],
+        required: [true, "input file should have a name"],
     },
     file: {
-        type: String,
-        required: [true, "file should have input"],
+        type: string,
+        required: [true, "upload is mandatory"],
     },
-    created_at: {
+    // path: {
+    //     type: String,
+    //     //required: [true, "file should have input"],
+    // },
+    size: {
         type: String,
-        required: [true, "dummy parameter"]
+        //required: [true, "dummy parameter"]
+    },
+    createdAt: {
+        type: Date,
+        default: Date.now()
     }
-}, {
-    timestamps: true,
 }
 );
 
