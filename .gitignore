@@ -1,0 +1,5 @@
+/node_modules
+.env
+test_file.js
+data.json
+output.json
