@@ -1,0 +1,222 @@
+{
+  "questions": [
+    {
+      "question": "What is the difference between management and social skills?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Management skills refer to the ability to plan, organize, lead, and control the activities of an organization or team to achieve specific goals and objectives. On the other hand, social skills refer to the ability to communicate effectively and build positive relationships with others."
+    },
+    {
+      "question": "What are the main tasks of a manager?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Managers have five major tasks, Planning, Organizing, Directing, Coordinating and Controlling"
+    },
+    {
+      "question": "What are the main concepts of management?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Planning, Organizing, leading, Controlling, decision-making, communication and innovation"
+    },
+    {
+      "question": "What is the definition of a marketing concept?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "he marketing concept is a business philosophy that focuses on identifying and satisfying the needs and wants of customers in order to achieve organizational goals."
+    },
+    {
+      "question": "What is the Merit of Partnership?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Merits of partnership are: shared responsibility, diverse skills and resources, increased financial resourcesm flexibility and agility, shared rsiks and rewards"
+    },
+    {
+      "question": "What is the definition of a manager?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "A manager is a person who is responsible for planning, organizing, leading, and controlling resources, such as people, materials, and finances, to achieve organizational goals."
+    },
+    {
+      "question": "What is the definition of a marketing function?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "The marketing function is a business function that involves creating, promoting, and delivering goods or services to customers or clients."
+    },
+    {
+      "question": "What is the Merit of Partnership?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Merits of partnership are: shared responsibility, diverse skills and resources, increased financial resourcesm flexibility and agility, shared rsiks and rewards"
+    },
+    {
+      "question": "What is the meaning of division of labor?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Division of labor is a method of organizing work within an organization or society in which different individuals or groups specialize in performing specific tasks or functions."
+    },
+    {
+      "question": "What is the difference between a single owner and a partnership organization?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "The key difference between a single owner and a partnership organization is the number of owners involved in the business.In a single owner organization, also known as a sole proprietorship, there is only one owner who has complete control over the business.In a partnership organization, there are two or more owners who share control and responsibility for the business."
+    },
+    {
+      "question": "What are the main function of management?",
+      "marks": 2,
+      "questionType": 1,
+      "show": true,
+      "answers": "The main functions of the management are : Planning, Organizing, Leading and Controlling. These four functions of management are interdependent and require ongoing attention and coordination to achieve organizational success."
+    },
+    {
+      "question": "What is the importance of manpower planning?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Ensures sufficient information regarding skills and qualification of all employees, increases efficiency?"
+    },
+    {
+      "question": "What is the purpose of a Personnel Policy?",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Provision of a healthy cafeteria, clean rest rooms, counseling, insurances, recreational facilities, coffee/tea, benefits for employee’s family?"
+    },
+    {
+      "question": "What are the most common types of wages in the industry?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Wages are more common in production, maintenance and labor industry?"
+    },
+    {
+      "question": "What is the purpose of training?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "The purpose of training is to achieve a change in the behavior of those trained and enable them to do their jobs in a better way?"
+    },
+    {
+      "question": "What is the definition of a job?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "A statement describing the job title, job responsibilities, location, working conditions, salary and benefits?"
+    },
+    {
+      "question": "What is the importance of manpower planning?",
+      "marks": "3",
+      "questionType": 1,
+      "show": true,
+      "answers": "Productivity of an organization increases when resources are utilized in best possible manner?"
+    },
+    {
+      "question": "What are the aspects of personnel management?",
+      "marks": 1,
+      "questionType": 1,
+      "show": true,
+      "answers": "Concerned with working conditions and amenities such as canteens, housing, personal problems of workers, therapy?"
+    },
+    {
+      "question": "What is the most realistic and effective approach to leadership?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Integrated Approach to Leadership is the most realistic and effective .Integration of the characteristics, behavior and experience of the leader, ability and experience, maturity of followers, structure and technology, objectives and external environment"
+    },
+    {
+      "question": "Explain the Maslow’s Hierarchy of needs theory?",
+      "marks": "3",
+      "questionType": 1,
+      "show": false,
+      "answers": "Physiological Needs,Safety Needs,Social Needs,Esteem need,Self Actualization needs"
+    },
+    {
+      "question": "What style of leadership does the model identify?",
+      "marks": "1",
+      "questionType": 1,
+      "show": true,
+      "answers": "managers choosing to use this style encourage teamwork and commitment among employees?"
+    },
+    {
+      "question": "What is the main difference between a successful entrepreneur and a non-profit entrepreneur?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Their mind is constantly on their work, whether they are in or out of the workplace?"
+    },
+    {
+      "question": "What style of leadership is the best?",
+      "marks": "1",
+      "questionType": 1,
+      "show": true,
+      "answers": "Laissez Faire Style/Free Rein Style?"
+    },
+    {
+      "question": "What is the most important step of setting up a small business?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "No business is complete without the selling of the product or services, and ensuring the flow of revenues?"
+    },
+    {
+      "question": "What are the traits of leadership?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Based on the personal traits, abilities, personality, background, physical characteristic, intelligence, attitudes, learning behavior, maturity"
+    },
+    {
+      "question": "What is the importance of a strong work ethic in a small business?",
+      "marks": "3",
+      "questionType": 1,
+      "show": true,
+      "answers": "A successful entrepreneur often is the first person to arrive at the office and last person to leave  Their mind is constantly on their work, whether they are in or out of the workplace  Motivates his team to think in his way and act accordingly"
+    },
+    {
+      "question": "What are the components of database",
+      "marks": "4",
+      "questionType": 1,
+      "show": true,
+      "answers": "Database is a set of following components o Description of data(data dictionary) o Set of relation and link parts of database (database architecture) o Set of objective or events that can be described by data o Set of rules determining how objects described by database can be manipulated Networking Information System ."
+    },
+    {
+      "question": "What is the purpose of organizing data?",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": "Collection of organized data  serves many applications effectively at the same time by storing and managing data so that they appear to be in one location"
+    },
+    {
+      "question": "What are the advantages of Information system?",
+      "marks": "4",
+      "questionType": 1,
+      "show": false,
+      "answers": "Real time Processing,Time Sharing,the integration of companys data for complex problem solving."
+    },
+    {
+      "question": "Define corporate database.",
+      "marks": "2",
+      "questionType": 1,
+      "show": true,
+      "answers": " Corporate database is a large complex structure and important for managers who want to use this data ."
+    },
+    {
+      "question": "What are the advantages of Information system?",
+      "marks": "4",
+      "questionType": 1,
+      "show": false,
+      "answers": "Real time Processing,Time Sharing,the integration of companys data for complex problem solving."
+    }
+  ],
+  "total": "02442422424224222312312122342424"
+}

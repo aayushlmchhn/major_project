@@ -1,0 +1,90 @@
+{
+    "subjects": [
+        {
+            "name": "Organization and Management",
+            "fullMarks": 80,
+            "marksDistribution": [
+                40,
+                16,
+                16,
+                8
+            ],
+            "marksDistributionAlternate": [
+                32,
+                16,
+                16,
+                16
+            ]
+        },
+        {
+            "name": "Energy, Environment and Society",
+            "fullMarks": 40,
+            "marksDistribution": [
+                4,
+                5,
+                20,
+                4,
+                4,
+                3
+            ],
+            "marksDistributionAlternate": []
+        },
+        {
+            "name": "Engineering Professional Practise",
+            "fullMarks": 40,
+            "marksDistribution": [
+                4,
+                8,
+                4,
+                8,
+                6,
+                4,
+                6
+            ],
+            "marksDistributionAlternate": []
+        },
+        {
+            "name": "Software Engineering",
+            "fullMarks": 80,
+            "marksDistribution": [
+                20,
+                5,
+                10,
+                5,
+                5,
+                3,
+                10,
+                8,
+                10,
+                4
+            ],
+            "marksDistributionAlternate": []
+        },
+        {
+            "name": "Object Oriented Analysis and Design",
+            "fullMarks": 80,
+            "marksDistribution": [
+                18,
+                14,
+                21,
+                27
+            ],
+            "marksDistributionAlternate": []
+        },
+        {
+            "name": "Information System",
+            "fullMarks": 80,
+            "marksDistribution": [
+                8,
+                14,
+                8,
+                12,
+                5,
+                5,
+                14,
+                14
+            ],
+            "marksDistributionAlternate": []
+        }
+    ]
+}

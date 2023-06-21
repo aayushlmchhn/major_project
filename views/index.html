@@ -47,9 +47,11 @@
 
             const formData = new FormData()
 
-            Object.keys(myFiles).forEach(key => {
-                formData.append(myFiles.item(key).name, myFiles.item(key))
-            })
+            // Object.keys(myFiles).forEach(key => {
+            //     formData.append(myFiles.item(key).name, myFiles.item(key))
+            // })
+
+            formData.append("files", myFiles[0]);
 
             const response = await fetch('http://localhost:5001/upload', {
                 method: 'POST',
