@@ -52,5 +52,9 @@ const inputSchema = mongoose.Schema({
 }
 );
 
+<<<<<<< HEAD
 >>>>>>> aayushlmchhn-patch-1
+=======
+>>>>>>> 71aa97ed79156131b0800154b274726e857d9567
+>>>>>>> e20d55af2f96abafef4fdf2fb967d6f051de5ac2
 module.exports = mongoose.model("input", inputSchema)

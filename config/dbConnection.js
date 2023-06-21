@@ -13,4 +13,5 @@ const connectDb = async () => {
 
     }
 }
+// >>>>>>> aayushlmchhn-patch-1
 module.exports = connectDb;
