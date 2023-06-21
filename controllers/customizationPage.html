@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 
@@ -29,4 +30,37 @@
     </form>
 </body>
 
+=======
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Question Form</title>
+</head>
+
+<body>
+    <h1>Question Form</h1>
+    <form method="POST" action="/submit-form">
+        <label for="num-questions">Number of Questions:</label>
+        <input type="number" id="num-questions" name="num-questions" required><br><br>
+
+        <label for="no-answer">No Answer:</label>
+        <input type="checkbox" id="no-answer" name="no-answer" value="true"><br><br>
+
+        <label for="question-type">Question Type:</label>
+        <select id="question-type" name="question-type">
+            <option value="mcq">MCQ</option>
+            <option value="sentence">Sentence</option>
+            <option value="mixed">Mixed</option>
+        </select><br><br>
+
+        <label for="validate-question">Validate Question:</label>
+        <input type="checkbox" id="validate-question" name="validate-question" value="true"><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+>>>>>>> 71aa97ed79156131b0800154b274726e857d9567
 </html>
